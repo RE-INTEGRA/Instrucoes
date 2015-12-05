@@ -5,4 +5,3 @@
  2. Clicar em "Just download"
  3. Baixar o instalador
  4. Instalar o Arduino.
- 5. 
